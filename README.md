@@ -5,8 +5,8 @@
 ###
 
 <div align="center">
-  <p>Visit my Linkedin to know more about me!</p>
-  <a href="https://www.linkedin.com/in/elsysabrinar/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
+  <p>Visit my Linkedin to know more about me!
+  <a href="https://www.linkedin.com/in/elsysabrinar/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a></p>
 </div>
 
 <h1 align="center">Hi! I'm Elsy👋</h1>
