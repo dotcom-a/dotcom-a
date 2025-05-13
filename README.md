@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">A Computer Engineer graduate from Politeknik Elektronika Negeri Surabaya<br><br>- 💼 Currently <b>open to work<\b>.<br>- 📚 I'm currently learning Golang for Backend Development<br></p>
+<p align="left">A Computer Engineer graduate from Politeknik Elektronika Negeri Surabaya<br><br>- 💼 Currently <b>open to work</b>.<br>- 📚 I'm currently learning Golang for Backend Development<br></p>
 
 ###
 
