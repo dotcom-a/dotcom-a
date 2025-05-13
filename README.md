@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/elsysabrinar/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
 </div>
 
-<h1 align="center">Hi! 👋</h1>
+<h1 align="center">Hi! I'm Elsy👋</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">A Computer Engineer graduate from Politeknik Elektronika Negeri Surabaya<br><br>- 💼 Currently *open to work*.<br>- 📚 I'm currently learning Golang for Backend Development<br></p>
+<p align="left">A Computer Engineer graduate from Politeknik Elektronika Negeri Surabaya<br><br>- 💼 Currently <b>open to work<\b>.<br>- 📚 I'm currently learning Golang for Backend Development<br></p>
 
 ###
 
