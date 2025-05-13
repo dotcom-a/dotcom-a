@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"  />
 </div>
 
 ###
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">A Computer Engineer graduate from Politeknik Elektronika Negeri Surabaya<br><br>- 💼 Currently **open to work**.<br>- 📚 I'm currently learning Golang for Backend Development<br></p>
+<p align="left">A Computer Engineer graduate from Politeknik Elektronika Negeri Surabaya<br><br>- 💼 Currently *open to work*.<br>- 📚 I'm currently learning Golang for Backend Development<br></p>
 
 ###
 
