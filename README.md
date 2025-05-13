@@ -5,6 +5,7 @@
 ###
 
 <div align="center">
+  <p>Visit my Linkedin to know more about me!</p>
   <a href="https://www.linkedin.com/in/elsysabrinar/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
 </div>
 
@@ -16,7 +17,7 @@
 
 ###
 
-<p align="left">A Computer Engineer graduate from Politeknik Elektronika Negeri Surabaya<br><br>- 💼 Currently <b>open to work</b>.<br>- 📚 I'm currently learning Golang for Backend Development<br></p>
+<p align="left">Computer Engineering graduate from Politeknik Elektronika Negeri Surabaya with a passion for building innovative solutions. Skilled in microcontroller programming for STM32, ESP32, and Arduino, as well as backend development using C# and Go. I enjoy tackling challenging projects, from embedded systems to web backend development, and am always eager to learn! <br><br> 💼 Currently <b>open to work</b>.<br> 📚 I'm currently learning Golang for Backend Development<br></p>
 
 ###
 
